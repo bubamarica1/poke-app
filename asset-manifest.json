@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bubamarica1/poke-app/static/css/main.e339a595.chunk.css",
-    "main.js": "/bubamarica1/poke-app/static/js/main.57d4a9ef.chunk.js",
-    "main.js.map": "/bubamarica1/poke-app/static/js/main.57d4a9ef.chunk.js.map",
-    "runtime-main.js": "/bubamarica1/poke-app/static/js/runtime-main.f7d0b5c4.js",
-    "runtime-main.js.map": "/bubamarica1/poke-app/static/js/runtime-main.f7d0b5c4.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/bubamarica1/poke-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f4ac9ea2.chunk.js": "/bubamarica1/poke-app/static/js/2.f4ac9ea2.chunk.js",
-    "static/js/2.f4ac9ea2.chunk.js.map": "/bubamarica1/poke-app/static/js/2.f4ac9ea2.chunk.js.map",
-    "index.html": "/bubamarica1/poke-app/index.html",
-    "precache-manifest.3f1e7d53bf778f5f320c97e8f95e1b0c.js": "/bubamarica1/poke-app/precache-manifest.3f1e7d53bf778f5f320c97e8f95e1b0c.js",
-    "service-worker.js": "/bubamarica1/poke-app/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/bubamarica1/poke-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e339a595.chunk.css.map": "/bubamarica1/poke-app/static/css/main.e339a595.chunk.css.map",
-    "static/js/2.f4ac9ea2.chunk.js.LICENSE.txt": "/bubamarica1/poke-app/static/js/2.f4ac9ea2.chunk.js.LICENSE.txt"
+    "main.css": "/poke-app/static/css/main.e339a595.chunk.css",
+    "main.js": "/poke-app/static/js/main.6b779019.chunk.js",
+    "main.js.map": "/poke-app/static/js/main.6b779019.chunk.js.map",
+    "runtime-main.js": "/poke-app/static/js/runtime-main.e570a08e.js",
+    "runtime-main.js.map": "/poke-app/static/js/runtime-main.e570a08e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/poke-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.283dd6f1.chunk.js": "/poke-app/static/js/2.283dd6f1.chunk.js",
+    "static/js/2.283dd6f1.chunk.js.map": "/poke-app/static/js/2.283dd6f1.chunk.js.map",
+    "index.html": "/poke-app/index.html",
+    "precache-manifest.726569eb78701a9ed4ee893afde7face.js": "/poke-app/precache-manifest.726569eb78701a9ed4ee893afde7face.js",
+    "service-worker.js": "/poke-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/poke-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e339a595.chunk.css.map": "/poke-app/static/css/main.e339a595.chunk.css.map",
+    "static/js/2.283dd6f1.chunk.js.LICENSE.txt": "/poke-app/static/js/2.283dd6f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7d0b5c4.js",
+    "static/js/runtime-main.e570a08e.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f4ac9ea2.chunk.js",
+    "static/js/2.283dd6f1.chunk.js",
     "static/css/main.e339a595.chunk.css",
-    "static/js/main.57d4a9ef.chunk.js"
+    "static/js/main.6b779019.chunk.js"
   ]
 }
